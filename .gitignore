@@ -1,0 +1,16 @@
+# PlatformIO build output and downloaded libraries
+.pio/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Local settings and secrets (copy secrets.example.h if you add any)
+include/secrets.h
+*.local
+.env
